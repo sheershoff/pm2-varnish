@@ -10,7 +10,7 @@ pmx.initModule({
   widget: {
 
     // Logo displayed
-    logo: 'https://www.varnish-cache.org/sites/default/files/pictures/varnishcache_rgb-gimp2-alpha.png',
+    logo: 'http://book.varnish-software.com/4.0/_static/weblogo.png',
 
     // Module colors
     // 0 = main element
